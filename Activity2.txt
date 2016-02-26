@@ -1,0 +1,8 @@
+1. Set is an integer array 
+2. Four methods addition , multiplication, subtraction, divison
+3. unit test has been written 
+
+the code is uploaded on github as well.
+reg no 849
+m.saad qadeer
+cs-2
